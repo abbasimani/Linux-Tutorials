@@ -1,2 +1,1 @@
-# theitguy
-The IT Guy
+# Linux Tutorials
